@@ -1,0 +1,7 @@
+docnum1234567890 - Invalid document length!
+ - Null document name!
+contract9999999999 - Invalid document length!
+docnumffffffffffff - Invalid document length!
+contract1234!@#$% - Invalid document length!
+docu1234567890 - Invalid document length!
+contr0000000000 - Invalid document beginning!
